@@ -1,0 +1,25 @@
+***** FREE RESOURCES *******
+
+    1. Typing: https://www.keybr.com/
+    2. API Full concepts: https://www.postman.com/student-program/student-expert/
+    3. Infosys free courses: https://infyspringboard.onwingspan.com/web/en/login
+    4. Infosys free courses: https://infytq.onwingspan.com/web/en/infytq-login
+    5. Harvard University CS-50 Free courses: https://cs50.harvard.edu/college/2021/fall/weeks/0/
+    6. Any Free courses Available: https://tutsnode.com/
+    7. Any Free courses Available: https://www.1337xx.to/
+    7. Any Free RoadMap: https://roadmap.sh/
+    8. Git Cheat Sheet: chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Feducation.github.com%2Fgit-cheat-sheet-education.pdf
+    9. Prompt ENgineering Free course: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+    10. DSA Sheet1: https://docs.google.com/spreadsheets/u/0/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview?pli=1
+    11. DSA Sheet2: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+    12. DSA Sheet3: https://neetcode.io/practice
+    13. DSA Sheet4: https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit?gid=0#gid=0
+    14. Things to do before & after interviews: https://docs.google.com/spreadsheets/d/1AD3xy3whcJP_6iUQ-McwZFfRs44CJs162PmzXzW9ImI/edit?gid=0#gid=0
+    15. ATS Resume Formate: https://docs.google.com/document/d/1AsQKQM-qct5pEWStcWgfydysu5Qz-AMaWPGesYHmcLs/edit
+    16. Code Vipassana (Data to Generative AI Agentic Apps with Google Cloud): https://rsvp.withgoogle.com/events/cv/home
+    17. **AMAZON WOW (Girls Only): https://amazonwowindia.splashthat.com/
+    18. Learn GIT Game: https://learngitbranching.js.org/
+    19. Related to Python: https://copyassignment.com/
+    20. Few Free course: https://github.com/free-courses/free-courses.github.io?tab=readme-ov-file
+    
+
